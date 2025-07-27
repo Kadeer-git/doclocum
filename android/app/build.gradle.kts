@@ -1,3 +1,10 @@
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 34
+    ...
+}
+
 plugins {
     id("com.android.application")
     id("kotlin-android")

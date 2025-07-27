@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "717411754794",
+    "project_id": "doclocum",
+    "storage_bucket": "doclocum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717411754794:android:5bdaf2bc1265382622f453",
+        "android_client_info": {
+          "package_name": "com.mycompany.doclocum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717411754794-mb9q3qsdtndt5tqlmmlv4fo9mf3k6t9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.doclocum",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "717411754794-kphuogecr8kcpj0gj8pl9bgd58psee48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9p4g67L-bMTh6JKutZBWB8QS3ydI9pxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717411754794-kphuogecr8kcpj0gj8pl9bgd58psee48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717411754794-o5jl97rohi0keec5dfvi2rf69g1b4mn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.doclocum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
